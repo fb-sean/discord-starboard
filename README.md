@@ -1,5 +1,5 @@
 # discord-starboard
-Simple starboard module
+Simple starboard module that can fetch Embeds and send them.
 
 
 
